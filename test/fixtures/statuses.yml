@@ -1,5 +1,3 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
 one:
   
   content: MyText
@@ -9,3 +7,8 @@ two:
  
   content: MyText
   user: phillip
+
+three:
+
+  content: "Hi Im jim"
+  user: jim

@@ -17,4 +17,9 @@ class RoutesTest < ActionDispatch::IntegrationTest
   	assert_response :success
   	
   end
+
+  test "that a profile page works" do
+    get '/phill173'
+    assert_response :success
+  end
 end

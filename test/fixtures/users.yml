@@ -1,6 +1,10 @@
 phillip: 
-        first_name: "Phillip" 
-        last_name: "Hayes"
-        email: "phillhayes6@hotmail.com"
-        profile_name: "phill173"
-        
+    first_name: "Phillip" 
+    last_name: "Hayes"
+    email: "phillhayes6@hotmail.com"
+    profile_name: "phill173"
+jim:
+    first_name: "Jim" 
+    last_name: "Lol"
+    email: "jim@hotmail.com"
+    profile_name: "jim"
