@@ -8,3 +8,8 @@ jim:
     last_name: "Lol"
     email: "jim@hotmail.com"
     profile_name: "jim"
+steven:
+    first_name: "Steven"
+    last_name: "Cheetham"
+    email: "steven@kloodle.com"
+    profile_name: "steven"
